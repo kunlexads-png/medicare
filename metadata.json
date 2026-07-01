@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Pro",
+  "description": "A modern, highly-responsive Hospital Management System with role-based dashboards for Admins, Doctors, Nurses, Patients, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
